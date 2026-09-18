@@ -243,6 +243,10 @@ async function main() {
   console.log(
     `[fetch-wikidata] 成功类别 ${ok}/${CATEGORIES.length}，共 ${all.length} 条原始数据`
   )
+  if (all.length === 0) {
+    console.error('[fetch-wikidata] 未抓到任何数据，退出码 1（便于 CI 回退到镜像端点）')
+    process.exit(1)
+  }
   if (!existsSync(OUT_DIR)) await mkdir(OUT_DIR, { recursive: true })
   await writeFile(OUT_FILE, JSON.stringify(all, null, 2), 'utf8')
   console.log(`[fetch-wikidata] 已写入 ${OUT_FILE}`)

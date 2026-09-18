@@ -26,10 +26,13 @@ jobs:
         with:
           node-version: 24
 
-      - name: Fetch Wikidata (official endpoint)
+      - name: Fetch Wikidata (official endpoint, QLever fallback)
         env:
           WDQS_ENDPOINT: https://query.wikidata.org/sparql
-        run: node scripts/fetch-wikidata.mjs
+        run: |
+          node scripts/fetch-wikidata.mjs \
+            || { echo "::warning::official WDQS failed, retrying via QLever mirror"; \
+                 WDQS_ENDPOINT=https://qlever.dev/api/wikidata node scripts/fetch-wikidata.mjs; }
 
       - name: Build merged data
         run: node scripts/build-data.mjs
