@@ -41,6 +41,11 @@
 
 ## 🚀 快速开始
 
+**Windows 一键启动**：双击仓库根目录的 [`启动.bat`](启动.bat) 即可——
+自动检查 Node.js、自动安装依赖、自动启动本地服务器并打开浏览器。
+
+手动方式：
+
 ```bash
 # 1. 克隆
 git clone https://github.com/Syotick/how-tiny-are-we.git
