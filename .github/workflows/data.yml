@@ -1,0 +1,45 @@
+name: Update Wikidata data
+
+on:
+  schedule:
+    - cron: '23 3 * * 1' # 每周一 03:23 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'data/curated.json'
+      - 'data/categories.json'
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch Wikidata (official endpoint)
+        env:
+          WDQS_ENDPOINT: https://query.wikidata.org/sparql
+        run: node scripts/fetch-wikidata.mjs
+
+      - name: Build merged data
+        run: node scripts/build-data.mjs
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f public/data/objects.json data/.cache/wikidata-raw.json
+          git diff --cached --quiet && echo "no changes" || {
+            git commit -m "chore(data): update Wikidata data ($(date +%F))"
+            git push
+          }

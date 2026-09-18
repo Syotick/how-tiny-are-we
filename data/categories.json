@@ -1,0 +1,14 @@
+{
+  "particle": { "label": "微观粒子", "en": "Particles", "emoji": "🌀", "color": "#b388ff" },
+  "atom": { "label": "原子分子", "en": "Atoms & Molecules", "emoji": "⚛️", "color": "#82b1ff" },
+  "cell": { "label": "细胞微生物", "en": "Cells & Microbes", "emoji": "🦠", "color": "#80cbc4" },
+  "everyday": { "label": "日常物品", "en": "Everyday Objects", "emoji": "🧂", "color": "#ffcc80" },
+  "life": { "label": "生物", "en": "Life", "emoji": "🌿", "color": "#a5d6a7" },
+  "human": { "label": "人类", "en": "Human", "emoji": "🧍", "color": "#fff59d" },
+  "made": { "label": "人造物", "en": "Human-made", "emoji": "🏗️", "color": "#ffab91" },
+  "earth": { "label": "地球自然", "en": "Earth", "emoji": "🌋", "color": "#90caf9" },
+  "solar": { "label": "太阳系", "en": "Solar System", "emoji": "🪐", "color": "#ffd54f" },
+  "star": { "label": "恒星与黑洞", "en": "Stars & Black Holes", "emoji": "⭐", "color": "#ffe082" },
+  "galaxy": { "label": "星系与宇宙结构", "en": "Galaxies & Structures", "emoji": "🌌", "color": "#ce93d8" },
+  "cosmos": { "label": "宇宙", "en": "Cosmos", "emoji": "🌠", "color": "#e1bee7" }
+}

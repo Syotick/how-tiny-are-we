@@ -1,0 +1,27 @@
+{
+  "name": "how-tiny-are-we",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "人类有多渺小 · How Tiny Are We — 以人类身高为基准的尺寸科普百科：滚轮缩放，从普朗克长度到可观测宇宙，每个物体都有说明。",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b",
+    "data:fetch": "node scripts/fetch-wikidata.mjs",
+    "data:build": "node scripts/build-data.mjs",
+    "data": "npm run data:fetch && npm run data:build"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.0"
+  }
+}
