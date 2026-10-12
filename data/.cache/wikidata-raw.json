@@ -7722,6 +7722,19 @@
     "auto": true
   },
   {
+    "id": "Q394286",
+    "name": "哥里昂奇山脈",
+    "nameEn": "Žumberak Mountains",
+    "zhLabel": "哥里昂奇山脈",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 20000,
+    "wikidataId": "Q394286",
+    "source": "https://www.wikidata.org/wiki/Q394286",
+    "auto": true
+  },
+  {
     "id": "Q408217",
     "name": "聖地亞哥島",
     "nameEn": "Santiago Island",
