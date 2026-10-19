@@ -962,6 +962,19 @@
     "auto": true
   },
   {
+    "id": "Q1066373",
+    "name": "塞尔赫斯特公园球场",
+    "nameEn": "Selhurst Park",
+    "zhLabel": "塞尔赫斯特公园球场",
+    "description": "",
+    "category": "building",
+    "prop": "P2049",
+    "size": 68,
+    "wikidataId": "Q1066373",
+    "source": "https://www.wikidata.org/wiki/Q1066373",
+    "auto": true
+  },
+  {
     "id": "Q1066662",
     "name": "公園街大樓",
     "nameEn": "Park Row Building",
@@ -4849,6 +4862,32 @@
     "auto": true
   },
   {
+    "id": "Q12030752",
+    "name": "Church of Saint James in Kutná Hora",
+    "nameEn": "Church of Saint James in Kutná Hora",
+    "zhLabel": "",
+    "description": "",
+    "category": "building",
+    "prop": "P2049",
+    "size": 24,
+    "wikidataId": "Q12030752",
+    "source": "https://www.wikidata.org/wiki/Q12030752",
+    "auto": true
+  },
+  {
+    "id": "Q12030752",
+    "name": "Church of Saint James in Kutná Hora",
+    "nameEn": "Church of Saint James in Kutná Hora",
+    "zhLabel": "",
+    "description": "",
+    "category": "building",
+    "prop": "P2048",
+    "size": 84,
+    "wikidataId": "Q12030752",
+    "source": "https://www.wikidata.org/wiki/Q12030752",
+    "auto": true
+  },
+  {
     "id": "Q12039154",
     "name": "馬內斯橋",
     "nameEn": "Mánes Bridge",
@@ -5158,45 +5197,6 @@
     "size": 21,
     "wikidataId": "Q123145985",
     "source": "https://www.wikidata.org/wiki/Q123145985",
-    "auto": true
-  },
-  {
-    "id": "Q1231655",
-    "name": "地王国际商会中心",
-    "nameEn": "Diwang International Commerce Center",
-    "zhLabel": "地王国际商会中心",
-    "description": "",
-    "category": "building",
-    "prop": "P2048",
-    "size": 276,
-    "wikidataId": "Q1231655",
-    "source": "https://www.wikidata.org/wiki/Q1231655",
-    "auto": true
-  },
-  {
-    "id": "Q1236638",
-    "name": "坦佩雷主教座堂",
-    "nameEn": "Tampere Cathedral",
-    "zhLabel": "坦佩雷主教座堂",
-    "description": "",
-    "category": "building",
-    "prop": "P2048",
-    "size": 64,
-    "wikidataId": "Q1236638",
-    "source": "https://www.wikidata.org/wiki/Q1236638",
-    "auto": true
-  },
-  {
-    "id": "Q1236650",
-    "name": "哥特堡主教座堂",
-    "nameEn": "Gothenburg Cathedral",
-    "zhLabel": "哥特堡主教座堂",
-    "description": "",
-    "category": "building",
-    "prop": "P2049",
-    "size": 38,
-    "wikidataId": "Q1236650",
-    "source": "https://www.wikidata.org/wiki/Q1236650",
     "auto": true
   },
   {
@@ -6263,6 +6263,19 @@
     "size": 3000,
     "wikidataId": "Q15258",
     "source": "https://www.wikidata.org/wiki/Q15258",
+    "auto": true
+  },
+  {
+    "id": "Q1526711",
+    "name": "Monte Kaolino",
+    "nameEn": "Monte Kaolino",
+    "zhLabel": "",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 400,
+    "wikidataId": "Q1526711",
+    "source": "https://www.wikidata.org/wiki/Q1526711",
     "auto": true
   },
   {
@@ -8395,6 +8408,19 @@
     "size": 50000,
     "wikidataId": "Q549377",
     "source": "https://www.wikidata.org/wiki/Q549377",
+    "auto": true
+  },
+  {
+    "id": "Q549560",
+    "name": "Trialeti Range",
+    "nameEn": "Trialeti Range",
+    "zhLabel": "",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 30000,
+    "wikidataId": "Q549560",
+    "source": "https://www.wikidata.org/wiki/Q549560",
     "auto": true
   },
   {
@@ -20267,19 +20293,6 @@
     "auto": true
   },
   {
-    "id": "Q277737",
-    "name": "WOH G64",
-    "nameEn": "WOH G64",
-    "zhLabel": "WOH G64",
-    "description": "",
-    "category": "star",
-    "prop": "P2386",
-    "size": 2140000000000,
-    "wikidataId": "Q277737",
-    "source": "https://www.wikidata.org/wiki/Q277737",
-    "auto": true
-  },
-  {
     "id": "Q28154719",
     "name": "格利澤536",
     "nameEn": "Gliese 536",
@@ -21070,6 +21083,19 @@
     "size": 1500000000,
     "wikidataId": "Q390671",
     "source": "https://www.wikidata.org/wiki/Q390671",
+    "auto": true
+  },
+  {
+    "id": "Q3990374",
+    "name": "顯微鏡座θ",
+    "nameEn": "Theta1 Microscopii",
+    "zhLabel": "顯微鏡座θ",
+    "description": "",
+    "category": "star",
+    "prop": "P2386",
+    "size": 2810000000,
+    "wikidataId": "Q3990374",
+    "source": "https://www.wikidata.org/wiki/Q3990374",
     "auto": true
   },
   {
