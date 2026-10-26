@@ -1343,7 +1343,7 @@
     "name": "中興橋",
     "nameEn": "Zhongxing Bridge",
     "zhLabel": "中興橋",
-    "description": "公路橋樑",
+    "description": "臺灣公路橋樑",
     "category": "building",
     "prop": "P2049",
     "size": 30,
@@ -2272,6 +2272,19 @@
     "size": 192,
     "wikidataId": "Q11145104",
     "source": "https://www.wikidata.org/wiki/Q11145104",
+    "auto": true
+  },
+  {
+    "id": "Q111515889",
+    "name": "雅加達國際電動大獎賽賽道",
+    "nameEn": "Jakarta International e-Prix Circuit",
+    "zhLabel": "雅加達國際電動大獎賽賽道",
+    "description": "",
+    "category": "building",
+    "prop": "P2049",
+    "size": 12,
+    "wikidataId": "Q111515889",
+    "source": "https://www.wikidata.org/wiki/Q111515889",
     "auto": true
   },
   {
@@ -5083,6 +5096,19 @@
     "auto": true
   },
   {
+    "id": "Q12192954",
+    "name": "丁梅尔清真寺",
+    "nameEn": "Great Mosque of Tinmal",
+    "zhLabel": "丁梅尔清真寺",
+    "description": "",
+    "category": "building",
+    "prop": "P2049",
+    "size": 43.6,
+    "wikidataId": "Q12192954",
+    "source": "https://www.wikidata.org/wiki/Q12192954",
+    "auto": true
+  },
+  {
     "id": "Q12192963",
     "name": "阿克萨清真寺",
     "nameEn": "Al-Aqsa Mosque",
@@ -5174,32 +5200,6 @@
     "auto": true
   },
   {
-    "id": "Q12271333",
-    "name": "阿拉贾粥厂清真寺",
-    "nameEn": "Alaca Imaret Mosque",
-    "zhLabel": "阿拉贾粥厂清真寺",
-    "description": "",
-    "category": "building",
-    "prop": "P2049",
-    "size": 11,
-    "wikidataId": "Q12271333",
-    "source": "https://www.wikidata.org/wiki/Q12271333",
-    "auto": true
-  },
-  {
-    "id": "Q123145985",
-    "name": "浔阳楼",
-    "nameEn": "Xunyang Lou",
-    "zhLabel": "浔阳楼",
-    "description": "江西九江市建筑",
-    "category": "building",
-    "prop": "P2048",
-    "size": 21,
-    "wikidataId": "Q123145985",
-    "source": "https://www.wikidata.org/wiki/Q123145985",
-    "auto": true
-  },
-  {
     "id": "Q1010089",
     "name": "奧索戈沃山脈",
     "nameEn": "Osogovo",
@@ -5236,6 +5236,19 @@
     "size": 16000,
     "wikidataId": "Q1048209",
     "source": "https://www.wikidata.org/wiki/Q1048209",
+    "auto": true
+  },
+  {
+    "id": "Q1062516",
+    "name": "艾斯潘諾拉島",
+    "nameEn": "Española Island",
+    "zhLabel": "艾斯潘諾拉島",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 7510,
+    "wikidataId": "Q1062516",
+    "source": "https://www.wikidata.org/wiki/Q1062516",
     "auto": true
   },
   {
