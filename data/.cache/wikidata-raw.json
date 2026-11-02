@@ -5616,6 +5616,19 @@
     "auto": true
   },
   {
+    "id": "Q1195352",
+    "name": "平松島",
+    "nameEn": "Pinzón Island",
+    "zhLabel": "平松島",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 5100,
+    "wikidataId": "Q1195352",
+    "source": "https://www.wikidata.org/wiki/Q1195352",
+    "auto": true
+  },
+  {
     "id": "Q11979989",
     "name": "卡米斯山",
     "nameEn": "Kamiesberge",
@@ -6280,9 +6293,9 @@
   },
   {
     "id": "Q1526711",
-    "name": "Monte Kaolino",
+    "name": "高嶺土山",
     "nameEn": "Monte Kaolino",
-    "zhLabel": "",
+    "zhLabel": "高嶺土山",
     "description": "",
     "category": "mountain",
     "prop": "P2049",
@@ -6393,6 +6406,19 @@
     "size": 106000,
     "wikidataId": "Q1556007",
     "source": "https://www.wikidata.org/wiki/Q1556007",
+    "auto": true
+  },
+  {
+    "id": "Q1577959",
+    "name": "圣贝纳迪诺山脉",
+    "nameEn": "San Bernardino Mountains",
+    "zhLabel": "圣贝纳迪诺山脉",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 65983.104,
+    "wikidataId": "Q1577959",
+    "source": "https://www.wikidata.org/wiki/Q1577959",
     "auto": true
   },
   {
@@ -9500,6 +9526,19 @@
     "size": 20000,
     "wikidataId": "Q858516",
     "source": "https://www.wikidata.org/wiki/Q858516",
+    "auto": true
+  },
+  {
+    "id": "Q864456",
+    "name": "比奥科沃山",
+    "nameEn": "Biokovo",
+    "zhLabel": "比奥科沃山",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 10000,
+    "wikidataId": "Q864456",
+    "source": "https://www.wikidata.org/wiki/Q864456",
     "auto": true
   },
   {
