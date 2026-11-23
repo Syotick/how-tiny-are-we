@@ -2279,7 +2279,7 @@
     "name": "雅加達國際電動大獎賽賽道",
     "nameEn": "Jakarta International e-Prix Circuit",
     "zhLabel": "雅加達國際電動大獎賽賽道",
-    "description": "",
+    "description": "位於印尼北雅加達安佐爾的街道賽道，為電動方程式錦標賽而建",
     "category": "building",
     "prop": "P2049",
     "size": 12,
@@ -4876,9 +4876,9 @@
   },
   {
     "id": "Q12030752",
-    "name": "Church of Saint James in Kutná Hora",
+    "name": "圣雅各教堂 (库特纳霍拉)",
     "nameEn": "Church of Saint James in Kutná Hora",
-    "zhLabel": "",
+    "zhLabel": "圣雅各教堂 (库特纳霍拉)",
     "description": "",
     "category": "building",
     "prop": "P2049",
@@ -4889,9 +4889,9 @@
   },
   {
     "id": "Q12030752",
-    "name": "Church of Saint James in Kutná Hora",
+    "name": "圣雅各教堂 (库特纳霍拉)",
     "nameEn": "Church of Saint James in Kutná Hora",
-    "zhLabel": "",
+    "zhLabel": "圣雅各教堂 (库特纳霍拉)",
     "description": "",
     "category": "building",
     "prop": "P2048",
@@ -5150,7 +5150,7 @@
   {
     "id": "Q122324",
     "name": "圣母升天圣殿总主教座堂",
-    "nameEn": "Latin Cathedral",
+    "nameEn": "Archcathedral Basilica of the Assumption of the Blessed Virgin Mary in Lwów",
     "zhLabel": "圣母升天圣殿总主教座堂",
     "description": "",
     "category": "building",
@@ -5163,7 +5163,7 @@
   {
     "id": "Q122324",
     "name": "圣母升天圣殿总主教座堂",
-    "nameEn": "Latin Cathedral",
+    "nameEn": "Archcathedral Basilica of the Assumption of the Blessed Virgin Mary in Lwów",
     "zhLabel": "圣母升天圣殿总主教座堂",
     "description": "",
     "category": "building",
@@ -6968,6 +6968,19 @@
     "auto": true
   },
   {
+    "id": "Q209064",
+    "name": "Ventoux山",
+    "nameEn": "Mont Ventoux",
+    "zhLabel": "Ventoux山",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 15000,
+    "wikidataId": "Q209064",
+    "source": "https://www.wikidata.org/wiki/Q209064",
+    "auto": true
+  },
+  {
     "id": "Q2116298",
     "name": "馬里恩島",
     "nameEn": "Marion Island",
@@ -7037,7 +7050,7 @@
     "name": "韋萊比特山脈",
     "nameEn": "Velebit",
     "zhLabel": "韋萊比特山脈",
-    "description": "",
+    "description": "克罗地亚的山脉",
     "category": "mountain",
     "prop": "P2049",
     "size": 30000,
@@ -7176,6 +7189,19 @@
     "auto": true
   },
   {
+    "id": "Q2504871",
+    "name": "佩尼貝蒂科山脈",
+    "nameEn": "Cordillera Penibética",
+    "zhLabel": "佩尼貝蒂科山脈",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 63000,
+    "wikidataId": "Q2504871",
+    "source": "https://www.wikidata.org/wiki/Q2504871",
+    "auto": true
+  },
+  {
     "id": "Q2508364",
     "name": "薩貝蒂科山脈",
     "nameEn": "Cordillera Subbética",
@@ -7303,6 +7329,19 @@
     "size": 15000,
     "wikidataId": "Q2670029",
     "source": "https://www.wikidata.org/wiki/Q2670029",
+    "auto": true
+  },
+  {
+    "id": "Q2670801",
+    "name": "Mount Sodom",
+    "nameEn": "Mount Sodom",
+    "zhLabel": "",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2048",
+    "size": 226,
+    "wikidataId": "Q2670801",
+    "source": "https://www.wikidata.org/wiki/Q2670801",
     "auto": true
   },
   {
@@ -7511,19 +7550,6 @@
     "size": 350000,
     "wikidataId": "Q309104",
     "source": "https://www.wikidata.org/wiki/Q309104",
-    "auto": true
-  },
-  {
-    "id": "Q313834",
-    "name": "莱茵板岩山脉",
-    "nameEn": "Rhenish Massif",
-    "zhLabel": "莱茵板岩山脉",
-    "description": "",
-    "category": "mountain",
-    "prop": "P2049",
-    "size": 180000,
-    "wikidataId": "Q313834",
-    "source": "https://www.wikidata.org/wiki/Q313834",
     "auto": true
   },
   {
@@ -8567,6 +8593,19 @@
     "auto": true
   },
   {
+    "id": "Q5955",
+    "name": "阿尔泰山脉",
+    "nameEn": "Altai Mountains",
+    "zhLabel": "阿尔泰山脉",
+    "description": "橫跨中國、蒙古、哈薩克和俄羅斯的山脈",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 600000,
+    "wikidataId": "Q5955",
+    "source": "https://www.wikidata.org/wiki/Q5955",
+    "auto": true
+  },
+  {
     "id": "Q6003861",
     "name": "伊梅昂山脈",
     "nameEn": "Imeon Range",
@@ -8746,19 +8785,6 @@
     "size": 177000,
     "wikidataId": "Q655747",
     "source": "https://www.wikidata.org/wiki/Q655747",
-    "auto": true
-  },
-  {
-    "id": "Q660304",
-    "name": "太平洋海岸山脈",
-    "nameEn": "Pacific Coast Ranges",
-    "zhLabel": "太平洋海岸山脈",
-    "description": "",
-    "category": "mountain",
-    "prop": "P2049",
-    "size": 2314000,
-    "wikidataId": "Q660304",
-    "source": "https://www.wikidata.org/wiki/Q660304",
     "auto": true
   },
   {
@@ -9659,6 +9685,19 @@
     "auto": true
   },
   {
+    "id": "Q920070",
+    "name": "海岸山脈",
+    "nameEn": "Coast Mountains",
+    "zhLabel": "海岸山脈",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 300000,
+    "wikidataId": "Q920070",
+    "source": "https://www.wikidata.org/wiki/Q920070",
+    "auto": true
+  },
+  {
     "id": "Q929910",
     "name": "布鲁克斯山脉",
     "nameEn": "Brooks Range",
@@ -9747,6 +9786,19 @@
     "size": 100000,
     "wikidataId": "Q945773",
     "source": "https://www.wikidata.org/wiki/Q945773",
+    "auto": true
+  },
+  {
+    "id": "Q958383",
+    "name": "埃斯皮尼亞蘇山脈",
+    "nameEn": "Espinhaço Mountains",
+    "zhLabel": "埃斯皮尼亞蘇山脈",
+    "description": "",
+    "category": "mountain",
+    "prop": "P2049",
+    "size": 100000,
+    "wikidataId": "Q958383",
+    "source": "https://www.wikidata.org/wiki/Q958383",
     "auto": true
   },
   {
@@ -9984,6 +10036,19 @@
     "auto": true
   },
   {
+    "id": "Q19558",
+    "name": "因加瀑布",
+    "nameEn": "Inga Falls",
+    "zhLabel": "因加瀑布",
+    "description": "刚果（金）的瀑布",
+    "category": "river",
+    "prop": "P2049",
+    "size": 914,
+    "wikidataId": "Q19558",
+    "source": "https://www.wikidata.org/wiki/Q19558",
+    "auto": true
+  },
+  {
     "id": "Q200239",
     "name": "琵琶湖",
     "nameEn": "Lake Biwa",
@@ -10046,6 +10111,19 @@
     "size": 38.75,
     "wikidataId": "Q2840764",
     "source": "https://www.wikidata.org/wiki/Q2840764",
+    "auto": true
+  },
+  {
+    "id": "Q38417",
+    "name": "博約馬瀑布",
+    "nameEn": "Boyoma Falls",
+    "zhLabel": "博約馬瀑布",
+    "description": "",
+    "category": "river",
+    "prop": "P2049",
+    "size": 730,
+    "wikidataId": "Q38417",
+    "source": "https://www.wikidata.org/wiki/Q38417",
     "auto": true
   },
   {
@@ -10779,7 +10857,7 @@
   {
     "id": "Q1143935",
     "name": "魯夸湖",
-    "nameEn": "Rukwa Lake",
+    "nameEn": "Lake Rukwa",
     "zhLabel": "魯夸湖",
     "description": "坦桑尼亚湖泊",
     "category": "lake",
